@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi There
-Welcome to my GitHub, my name is Tomas Padilla wave!
+Welcome to my GitHub, my name is William Jose Gallo Marquez!
